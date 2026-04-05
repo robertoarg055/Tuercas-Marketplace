@@ -1,0 +1,22 @@
+SKU;Nombre;Categoria;Vehiculo_Compatible;Precio;Proveedor;Stock;Entrega;Validacion_OEM;URL_Imagen
+NM12-FR01;Pastillas de Freno Delanteras;Frenos;Nissan March 2012 1.6;35.5;Super Repuestos;12;Inmediata;S�;https://cdnx.jumpseller.com/frenoscenter/image/35254317/resize/540/540?1684246887
+NM12-MT02;Filtro de Aceite;Motor;Nissan March 2012 1.6;8.75;Econo Parts;25;Inmediata;S�;https://encuentraautopartes.com/cdn/shop/products/GP-91_62fdc210-ce8e-463c-825b-88905f0fc1c3.jpg?v=1674239031
+NM12-SP03;Amortiguador Delantero;Suspension;Nissan March 2012 1.6;65;Impresa Repuestos;4;24 horas;No;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQybDm_45UR3qnPZ7R0jbz77ChnLz20qJ0acw&s
+NM12-EL04;Juego de Bujias Iridium;Electrico;Nissan March 2012 1.6;24;Super Repuestos;30;Inmediata;S�;https://refaccionesnissan.com.mx/wp-content/uploads/2024/05/Refacciones-NISSAN-las-mejores-refacciones-originales-para-tu-nissan-imagen-B2401JA01JNWX4.jpg
+NM12-MT05;Bomba de Agua;Motor;Nissan March 2012 1.6;45;Repuestos La 29;2;2-3 dias;No;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAN53-HFd7I4pSH1OH1Ojj8bEkhtCEMdbJ4w&s
+ML09-FR01;Discos de Freno Delanteros;Frenos;Mitsubishi Lancer 2009 2.0;55;Econo Parts;8;Inmediata;S�;https://rtgrepuestos.com/wp-content/uploads/2024/10/20057161-1.jpg
+ML09-MT02;Filtro de Aire;Motor;Mitsubishi Lancer 2009 2.0;12.5;Super Repuestos;15;Inmediata;S�;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUIfmSK4inVbyQtrikU7g59CY6uuyD_csUaQ&s
+ML09-EL03;Bobina de Encendido;Electrico;Mitsubishi Lancer 2009 2.0;42;Impresa Repuestos;5;24 horas;S�;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8g7-ajSCbFSa5hIS-ZtYhOIdAZg-TZBwlig&s
+ML09-MT04;Correa de Tiempo;Motor;Mitsubishi Lancer 2009 2.0;38;Repuestos La 29;10;Inmediata;No;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRc05EI2CtZMG918Y2bq7ZnPXWZ6CbRch9Uw&s
+ML09-MT05;Radiador de Motor;Motor;Mitsubishi Lancer 2009 2.0;110;Econo Parts;3;2-3 dias;S�;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRax_zJ0emObPt5fcytnxLeOyb_aAzn2u2dYg&s
+TC08-TR01;Kit de Clutch;Transmision;Toyota Corolla 2008 1.6;135;Super Repuestos;6;Inmediata;S�;https://srautomotrices.com/wp-content/uploads/2023/02/WTY001T.1.jpg
+TC08-EL02;Compresor A/C;Electrico;Toyota Corolla 2008 1.6;180;Agencia;2;3-5 dias;S�;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnQAzDygsp5j3iMWUSQ1viDl-YC7BCAmM7IQ&s
+TC08-MT03;Soporte de Motor;Motor;Toyota Corolla 2008 1.6;48;Econo Parts;12;Inmediata;No;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtV4z7PBgugXVPxygOXYdaZv_WAYC48qvdNw&s
+TC08-MT04;Bomba de Combustible;Motor;Toyota Corolla 2008 1.6;75;Impresa Repuestos;4;24 horas;S�;https://m.media-amazon.com/images/I/61oFPuL1atL.jpg
+TC08-SP05;Terminal de Direccion;Suspension;Toyota Corolla 2008 1.6;18.5;Super Repuestos;20;Inmediata;S�;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ1gTR66RZzYefELVl0Gn3xkyaixHPOVRUqw&s
+ML09-FR06;Discos de Freno Delanteros;Frenos;Mitsubishi Lancer 2009 2.0;65;Tecni Parts;8;4-6 dias;S�;https://rtgrepuestos.com/wp-content/uploads/2024/10/20057161-1.jpg
+ML09-MT07;Filtro de Aire;Motor;Mitsubishi Lancer 2009 2.0;11;La 29;15;Inmediata;S�;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUIfmSK4inVbyQtrikU7g59CY6uuyD_csUaQ&s
+ML09-EL08;Bobina de Encendido;Electrico;Mitsubishi Lancer 2009 2.0;41;Tecni Parts;5;24 horas;S�;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8g7-ajSCbFSa5hIS-ZtYhOIdAZg-TZBwlig&s
+ML09-MT08;Correa de Tiempo;Motor;Mitsubishi Lancer 2009 2.0;30;Tecni Parts;10;Inmediata;No;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRc05EI2CtZMG918Y2bq7ZnPXWZ6CbRch9Uw&s
+ML09-MT010;Radiador de Motor;Motor;Mitsubishi Lancer 2009 2.0;115;Tecni Parts;3;2-3 dias;S�;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRax_zJ0emObPt5fcytnxLeOyb_aAzn2u2dYg&s
+TC08-TR06;Kit de Clutch;Transmision;Toyota Corolla 2008 1.6;155;Tecni Parts;6;4-6 dias;S�;https://srautomotrices.com/wp-content/uploads/2023/02/WTY001T.1.jpg
