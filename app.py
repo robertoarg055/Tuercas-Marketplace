@@ -3,7 +3,7 @@ import pandas as pd
 from google import genai
 
 # Configuración básica de la página
-st.set_page_config(page_title="Marketplace Repuestos", page_icon="⚙️", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="Tuercas Marketplace", page_icon="⚙️", layout="wide", initial_sidebar_state="expanded")
 
 # --- CONFIGURACIÓN DE LA API KEY (Fija para la demo) ---
 API_KEY = "AIzaSyCeuJf9PjARY0hBfq4olf95xCOAhr-jiVE" # <--- ¡Pega tu llave de Google AI Studio aquí!
@@ -114,7 +114,7 @@ with st.sidebar:
 
 # --- VISTA 1: INICIO (Catálogo) ---
 if st.session_state.pagina_actual == "inicio":
-    st.title("🏁 Marketplace: Repuestos Automotrices")
+    st.title("🏁 Tuercas Marketplace: Repuestos Automotrices")
     st.write("Cotiza, compara y compra repuestos OEM y alternativos en segundos.")
     
     busqueda = st.text_input("🔍 Buscar por SKU, Nombre o Vehículo...", "")
