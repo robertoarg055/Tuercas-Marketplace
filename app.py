@@ -6,7 +6,7 @@ from google import genai
 st.set_page_config(page_title="Tuercas Marketplace", page_icon="⚙️", layout="wide", initial_sidebar_state="expanded")
 
 # --- CONFIGURACIÓN DE LA API KEY (Fija para la demo) ---
-API_KEY = "AIzaSyCeuJf9PjARY0hBfq4olf95xCOAhr-jiVE" # <--- ¡Pega tu llave de Google AI Studio aquí!
+API_KEY = st.secrets["GEMINI_API_KEY"] # <--- ¡Pega tu llave de Google AI Studio aquí!
 
 # --- INICIALIZACIÓN DE VARIABLES DE ESTADO ---
 if "pagina_actual" not in st.session_state:
